@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Md Juwel Raj|I am Junior developer 
+# 👋 Hi, I'm Md Juwel Raj
+#    I am Junior developer 
 
 🚀 HTML | JavaScript | Cloudflare Workers | IPTV & Streaming Solutions
 
@@ -38,8 +39,8 @@
 ## 📬 Connect with Me
 
 - 📧 Email: [jp.live24bd@gmail.com](mailto:jp.live24bd@gmail.com)
-- 💬 Telegram: [https://t.me/YOUR_TELEGRAM_USERNAME](https://t.me/YOUR_TELEGRAM_USERNAME)
-- 📱 WhatsApp: [https://wa.me/YOUR_WHATSAPP_NUMBER](https://wa.me/YOUR_WHATSAPP_NUMBER)
+- 💬 Telegram: [https://t.me/YOUR_TELEGRAM_USERNAME](https://t.me/jp_live_24)
+- 📱 WhatsApp: [https://wa.me/YOUR_WHATSAPP_NUMBER](https://wa.me/message/QYXNGL6VARFMF1)
 
 ---
 
